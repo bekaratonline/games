@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bekaratonline.github.io/games/sitemap.xml
